@@ -1,4 +1,4 @@
-Write a program to compute sum and average of all elements in an array using pointer.*/
+/*Write a program to compute sum and average of all elements in an array using pointer.*/
 #include<stdio.h>
 void main()
 {
@@ -20,6 +20,4 @@ void main()
 	    printf("\nSum of array elements= %d\n",sum);
 	    avg=sum/size;
 	    printf("\naverage of array elements =%d",avg);
-
-
 }
