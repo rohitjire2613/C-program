@@ -1,4 +1,4 @@
-/***********************slip 1_B*************************
+/************************************************
 Write a C program to accept details of n students (roll number, name, percentage) using structure. Display details of the student having maximum percentage.*/
 #include<stdio.h>
 #include<string.h>
